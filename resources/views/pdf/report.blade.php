@@ -32,7 +32,7 @@
         </thead>
         <tbody>
             @php
-                $i = 0;
+                $i = 1;
             @endphp
             @foreach($data as $row)
             <tr>
